@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "fldsmdfr",
+    "name": "FLDSMDFR - Maquina de Comida Infinita",
+    "description": "Maquina inspirada na FLDSMDFR: um unico corpo central que sofre mutacoes grotescas sem limite e descarrega toda a comida por uma abertura inferior animada.",
+    "version": "1.1.0",
+    "mcversion": "1.8.9",
+    "authorList": ["FLDSMDFR project"],
+    "credits": "Inspirado no filme Tá Chovendo Hambúrguer"
+  }
+]
